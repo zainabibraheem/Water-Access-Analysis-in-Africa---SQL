@@ -22,66 +22,60 @@ To explores the distribution of different water sources and their operational st
 This was done to answer key business questions.
 
  Write an SQL query to calculate the average water availability (liters per capita per day) for each country.
-   
-             SQL QUERY:  
-
+     
              
+![Screenshot 2025-03-27 155009](https://github.com/user-attachments/assets/36426385-c432-4aa0-9133-1c020984166c)
 
 
+![Screenshot 2025-03-27 144208](https://github.com/user-attachments/assets/7b06ce92-99d9-49e0-8a4e-2ecc24fe97cc)
 
 Write an SQL query to retrieve details of communities where at least one water point is non-functional.
 
+![Screenshot 2025-03-28 133039](https://github.com/user-attachments/assets/0e694d66-d389-4230-bebf-1b128d2c84ca)
 
 
 
-
-Please retrieve the information for the top five communities with the highest annual sanitation maintenance costs.
-
-            SQL QUERY
+![Screenshot 2025-03-28 131310](https://github.com/user-attachments/assets/ce01276e-8aa9-4e7f-b838-9f0cbbc2fb77)
 
 
+Please retrieve the information for the top five communities with the highest annual sanitation maintenance costs.     
 
+![Screenshot 2025-03-28 133123](https://github.com/user-attachments/assets/f674339b-8c2a-4557-89f9-e533a95e35aa)
 
+![Screenshot 2025-03-28 131418](https://github.com/user-attachments/assets/d102b43e-1ad7-48a5-855c-14f476177a9b)
 
 
 Calculate the total number of functional and non-functional water points per country
 
-SQL QUERY
+![Screenshot 2025-03-29 083031](https://github.com/user-attachments/assets/fca43bb7-6b92-4192-9445-e8f959635306)
 
-
- 
+![Screenshot 2025-03-29 083012](https://github.com/user-attachments/assets/e89970d1-56e0-464b-a5dd-51f4c0bcbdca)
 
 
 5. Identify communities with a high incidence of waterborne diseases (>20%)
 
+![Screenshot 2025-03-28 131739](https://github.com/user-attachments/assets/0e01bec7-5e12-4565-ac9d-a569af3df832)
 
-
-
+![Screenshot 2025-03-28 131914](https://github.com/user-attachments/assets/f1c71517-e584-42b5-ac40-173c8523eafc)
 
 6. Find the average distance to the water source per region
 
-SQL QUERY
+![Screenshot 2025-03-29 074605](https://github.com/user-attachments/assets/1ff2d1c0-a711-47bb-a042-e367b01fe0a1)
 
-
-
-
+![Screenshot 2025-03-29 074539](https://github.com/user-attachments/assets/51c623c5-9975-4ebc-a10b-594c1474b4d3)
 
 7. List the communities that receive both government and NGO support
 
-SQL QUERY
+![Screenshot 2025-03-27 160444](https://github.com/user-attachments/assets/df49979c-e660-4fa9-a99f-4c9396499934)
 
-
-
-
+![Screenshot 2025-03-28 132134](https://github.com/user-attachments/assets/eac5e33d-6dfe-417a-a5ea-67cc9ba0d3e1)
 
 
 8. Identify the community with the highest population per country
 
-SQL QUERY
+![Screenshot 2025-03-27 160334](https://github.com/user-attachments/assets/056f7b33-3082-4de5-87f9-55af9b03cd10)
 
-
-
-
+![Screenshot 2025-03-28 173855](https://github.com/user-attachments/assets/d5e2662b-332f-4169-8b28-c91e020111d4)
 
 
 ## Insights: Key Findings
